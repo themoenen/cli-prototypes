@@ -1,0 +1,9 @@
+README.md
+main.py
+setup.py
+ibmad.egg-info/PKG-INFO
+ibmad.egg-info/SOURCES.txt
+ibmad.egg-info/dependency_links.txt
+ibmad.egg-info/entry_points.txt
+ibmad.egg-info/requires.txt
+ibmad.egg-info/top_level.txt
